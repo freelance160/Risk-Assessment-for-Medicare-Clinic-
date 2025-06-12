@@ -1,19 +1,18 @@
-# Risk-Assessment-for-Medicare-Clinic
-# 🛡️ Risk Assessment Scenario Task
+# 🛡️ Risk Assessment Scenario Task: Medicare-Clinic
 
-Scenario: Risk Assessment for "MediCare Clinic"
+**Scenario: Risk Assessment for "MediCare Clinic"**
 MediCare Clinic is a small healthcare practice with 10 employees, including doctors, nurses, and an office administrator. They store patient records in a cloud-based Electronic Health Records (EHR) system and use an in-office Wi-Fi network. Employees use desktops and mobile devices to access patient information.
 
-Your Task:
-Identify, evaluate, and document potential risks for MediCare Clinic, following these steps:
+Task:
+-Identify, evaluate, and document potential risks for MediCare Clinic, following these steps:
 
-Create an asset inventory (List key assets such as EHR software, office Wi-Fi, employee devices, etc.).
+-Create an asset inventory (List key assets such as EHR software, office Wi-Fi, employee devices, etc.).
 
-Identify potential threats (Think of cyber and physical threats like ransomware, unauthorized access, or insider threats).
+-Identify potential threats (Think of cyber and physical threats like ransomware, unauthorized access, or insider threats).
 
-Rate the risk (Use High, Medium, or Low based on impact and likelihood).
+-Rate the risk (Use High, Medium, or Low based on impact and likelihood).
 
-Suggest risk mitigation strategies (How can the clinic reduce these risks? Think of security controls like encryption, MFA, security awareness training, etc.).
+-Suggest risk mitigation strategies (How can the clinic reduce these risks? Think of security controls like encryption, MFA, security awareness training, etc.).
 ---
 
 ## 📋 Asset Inventory
