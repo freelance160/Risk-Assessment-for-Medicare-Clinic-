@@ -1,6 +1,7 @@
 # 🛡️ Risk Assessment Scenario Task: Medicare-Clinic
 
 **Scenario: Risk Assessment for "MediCare Clinic"**
+
 MediCare Clinic is a small healthcare practice with 10 employees, including doctors, nurses, and an office administrator. They store patient records in a cloud-based Electronic Health Records (EHR) system and use an in-office Wi-Fi network. Employees use desktops and mobile devices to access patient information.
 
 Task:
