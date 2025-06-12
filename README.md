@@ -7,13 +7,15 @@ MediCare Clinic is a small healthcare practice with 10 employees, including doct
 Task:
 -Identify, evaluate, and document potential risks for MediCare Clinic, following these steps:
 
--Create an asset inventory (List key assets such as EHR software, office Wi-Fi, employee devices, etc.).
+-Create an asset inventory.
 
--Identify potential threats (Think of cyber and physical threats like ransomware, unauthorized access, or insider threats).
+-Identify potential threats.
 
--Rate the risk (Use High, Medium, or Low based on impact and likelihood).
+-Rate the risk.
 
--Suggest risk mitigation strategies (How can the clinic reduce these risks? Think of security controls like encryption, MFA, security awareness training, etc.).
+-Suggest risk mitigation strategies.
+
+
 ---
 
 ## 📋 Asset Inventory
